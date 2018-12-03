@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Foto;
+use App\Models\Foto;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Storage;
 
